@@ -141,7 +141,7 @@ touch /etc/environment
 sudo touch /etc/environment
 sudo atom /etc/environment 
 wd
-w
+
 pwd
 sudo apt-get install mysql-workbench
 mysql-workbench 
